@@ -1,0 +1,21 @@
+/* Custom cursor style */
+.custom-cursor {
+    position: fixed;
+    pointer-events: none;
+    width: 6.313rem;
+    height: 6.313rem;
+    background: url('/assets/images/cursor.png') no-repeat center center;
+    background-size: contain;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    animation: spin 5s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg) ; }
+    100% { transform: rotate(360deg) ; }
+  }
+  

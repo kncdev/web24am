@@ -1,0 +1,8 @@
+body{cursor: none !important;}
+h1,h2,h3,h4,h5,h6{font-family: 'Times New Roman', Times, serif; color: #333;}
+p,a,span,i,li{font-family: sans-serif; color: #06040A;}
+
+body{overflow-x: hidden !important;}
+/* reset gsap makers */
+
+.gsap-marker-end,.gsap-marker-start,.gsap-marker-scroller-end,.gsap-marker-scroller-start{opacity: 0 !important; overflow: hidden !important; height: 0px !important; display: none !important;}

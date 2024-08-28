@@ -80,8 +80,8 @@ gsap.registerPlugin(ScrollTrigger)
 
 const items = ref([
   { id: 1, title: 'Primary Goods', imgSrc: product1, index: '01', description: 'Primary Goods is a curated publication of wellness and lifestyle products, aiming to be a growing library of modern culture and wellness.' },
-  { id: 2, title: 'Tontine.ai', imgSrc: product2, index: '02', description: 'Primary Goods is a curated publication of wellness and lifestyle products, aiming to be a growing library of modern culture and wellness.' },
-  { id: 3, title: 'LVBL', imgSrc: product3, index: '03', description: 'Primary Goods is a curated publication of wellness and lifestyle products, aiming to be a growing library of modern culture and wellness.' },
+  { id: 2, title: 'Tontine.ai', imgSrc: product2, index: '02', description: 'Magically simplified A/B testing for 2,400+ Shopify brands. Tontine is the #1 full-service profit optimization platform for Shopify brands.' },
+  { id: 3, title: 'LVBL', imgSrc: product3, index: '03', description: 'Connecting Tennis players and allowing them to host and join games easily.' },
 ])
 
 useHead({

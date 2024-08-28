@@ -1,8 +1,6 @@
 <template>
   <div>
-    <div class="lg:p-0 p-[0_1.5rem]">
-      <NuxtPage />
-    </div>
+    <NuxtPage />
     <CustomCursor />
   </div>
 </template>

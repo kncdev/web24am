@@ -1,6 +1,8 @@
 <template>
   <nav class="flex justify-center items-center lg:p-[2.75rem_3.125rem] p-[1.5rem_0]">
-    <img :src="logo" alt="Logo" class="h-auto w-[11.688rem]" />
+    <a href="/">
+      <img :src="logo" alt="Logo" class="h-auto w-[11.688rem]" />
+    </a>
   </nav>
 </template>
 

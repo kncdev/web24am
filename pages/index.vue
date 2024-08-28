@@ -17,7 +17,7 @@
             </div>
         </div>
           <div class="hero-wrapper flex flex-col">
-            <div class="hero-content-start overflow-auto hero-title-desktop lg:block hidden lg:w-[27.063rem] bg-white lg:fixed lg:top-0 lg:left-0 lg:bottom-0 lg:z-10 lg:h-screen pb-[2rem]">
+            <div class="hero-content-start overflow-y-auto hero-title-desktop lg:block hidden lg:w-[27.063rem] bg-white lg:fixed lg:top-0 lg:left-0 lg:bottom-0 lg:z-10 lg:h-screen pb-[2rem]">
               <div class="flex flex-col gap-[1.25rem] ">
               <div class="hero-title font-serif">
                 <h1 class="text-[5rem] text-[#333] leading-[6rem]">Next-Gen Design & Development Partner.</h1>

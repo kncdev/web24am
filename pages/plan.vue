@@ -7,7 +7,7 @@
             <div class="hero-plan-wrapper md:text-start text-center w-full max-w-[70.5rem] mx-auto flex xl:flex-row flex-col justify-between lg:gap-[6.188rem] sm:gap-[2.5rem] gap-[1.5rem] lg:p-[10.188rem_0_8rem] sm:p-[2.5rem_0] p-[1.5rem_0]">
                 <div class="hero-plan-content-start w-full lg:max-w-[38.688rem] flex flex-col lg:items-start items-stretch gap-[1rem]">
                     <p class="sm:text-[2.5rem] text-[2rem]">Creating top-tier Websites & Apps, Branding, Development,<br>and Content services to boost your global brand impact.</p>
-                    <a href="#"><div class="flex flex-nowrap md:w-[23.875rem] w-full border-[2px] border-black justify-between items-center gap-[5.5rem] md:p-[1.375rem_2.375rem_1.375rem_2.063rem] p-[1rem]"><h6 class="text-[1.5rem] font-light">View our services</h6><img :src="iconMore" alt="icon"></div></a>
+                    <a href="#"><div class="flex flex-nowrap md:w-[23.875rem] w-full border-[2px] border-black justify-between items-center sm:gap-[5.5rem] gap-[1rem] md:p-[1.375rem_2.375rem_1.375rem_2.063rem] p-[1rem]"><h6 class="sm:text-[1.5rem] text-[1.25rem] font-light">View our services</h6><img :src="iconMore" alt="icon"></div></a>
                 </div>
                 <div class="hero-plan-content-end w-full lg:max-w-[25.875rem] flex flex-col items-start lg:gap-[1.5rem] gap-[1rem]">
                     <div class="flex items-center gap-[1.375rem]">
